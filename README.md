@@ -10,7 +10,8 @@ I'm MOHAMMAD NAWED ARSHAD 👨‍💻
 ---
 
 ## 🔧 Technical Skills
-<img src="https://logowik.com/content/uploads/images/911_c_logo.jpg" alt="Skill" width="40" height="40"/>
+<img src="![image](https://github.com/user-attachments/assets/7f715d0a-a26c-4001-9e4f-65a00c10822b)
+" alt="Skill" width="40" height="40"/>
 ### Languages:
 - **C, C++, Python, Java, Go, R**
 - **JavaScript (ES6), TypeScript, PHP**
