@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm MOHAMMAD NAWED ARSHAD 👨‍💻
+I'm NAWED ARSHAD 👨‍💻
 
 - 💼 Currently pursuing **B.Tech in Computer Science and Engineering** with a specialization in Artificial Intelligence at Techno India University (2021-2025).
 - 🔭 I’m currently working on a **Cybersecurity Audit Tool** leveraging automation and blockchain for Windows and Linux compliance.
