@@ -5,13 +5,12 @@ I'm MOHAMMAD NAWED ARSHAD 👨‍💻
 - 💼 Currently pursuing **B.Tech in Computer Science and Engineering** with a specialization in Artificial Intelligence at Techno India University (2021-2025).
 - 🔭 I’m currently working on a **Cybersecurity Audit Tool** leveraging automation and blockchain for Windows and Linux compliance.
 - 🌱 I’m currently learning **Machine Learning**, **Blockchain** and **Full-Stack Development**.
-- 🏆 I’m a participant in the **Smart India Hackathon** and love solving real-world problems through technology.
 - 🚀 Passionate about creating **innovative solutions** in AI, blockchain, cybersecurity, and automation.
 
 ---
 
 ## 🔧 Technical Skills
-
+<img src="https://logowik.com/content/uploads/images/911_c_logo.jpg" alt="Skill" width="40" height="40"/>
 ### Languages:
 - **C, C++, Python, Java, Go, R**
 - **JavaScript (ES6), TypeScript, PHP**
