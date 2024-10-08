@@ -12,6 +12,12 @@ I'm NAWED ARSHAD 👨‍💻
 ## 🔧 Technical Skills
 
 <img src="https://th.bing.com/th/id/OIP.n9WsqgGjuAd84J1w4QhiuwHaGn?rs=1&pid=ImgDetMain" alt="Skill" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="Skill" width="40" height="40"/>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Skill" width="40" height="40"/>
+<img src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" alt="Skill" width="40" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/r-lang-logo-png-transparent.png" alt="Skill" width="40" height="40"/>
+<img src="" alt="Skill" width="40" height="40"/>
+
 ### Languages:
 - **C, C++, Python, Java, Go, R**
 - **JavaScript (ES6), TypeScript, PHP**
