@@ -11,7 +11,7 @@ I'm MOHAMMAD NAWED ARSHAD 👨‍💻
 
 ## 🔧 Technical Skills
 
-<img src="https://github.com/user-attachments/assets/9b5af025-7b4a-4139-8c4f-a9d9aaaacf02" alt="Skill" width="50" height="40"/>
+<img src="https://th.bing.com/th/id/OIP.n9WsqgGjuAd84J1w4QhiuwHaGn?rs=1&pid=ImgDetMain" alt="Skill" width="50" height="40"/>
 ### Languages:
 - **C, C++, Python, Java, Go, R**
 - **JavaScript (ES6), TypeScript, PHP**
