@@ -18,12 +18,10 @@ I'm NAWED ARSHAD 👨‍💻
 <img src="https://cdn.freebiesupply.com/logos/large/2x/r-lang-logo-png-transparent.png" alt="Skill" width="40" height="40"/>
 <img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="Skill" width="40" height="40"/>
 <img src="https://clipground.com/images/html-logo-png-3.png" alt="Skill" width="40" height="40"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="Skill" width="40" height="40"/>
-<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" alt="Skill" width="40" height="40"/>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="Skill" width="40" height="40"/>
 <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="Skill" width="40" height="40"/>
 <img src="https://freesvg.org/img/js_logo.png" alt="Skill" width="40" height="40"/>
-<img src="https://pngimg.com/uploads/php/php_PNG26.png" alt="Skill" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/666/502/png-clipart-brand-php-logo-computer-file-product-breeze-blue-text.png" alt="Skill" width="40" height="40"/>
 <img src="" alt="Skill" width="40" height="40"/>
 </p>
 ### Languages:
