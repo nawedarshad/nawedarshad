@@ -81,6 +81,6 @@ Working on an AI-based text editor that aids in writing code, managing file stru
 ---
 
 ## 📫 Get in Touch
-- **Email**: [nawedarshad25@gmail.com]
+- **Email**: nawedarshad25@gmail.com
 
 Feel free to connect with me if you want to collaborate on projects, need help with software development, or just want to discuss the latest trends in technology!
